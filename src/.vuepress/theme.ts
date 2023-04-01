@@ -34,57 +34,72 @@ export default hopeTheme({
       Gmail: "mailto:info@example.com",
       Whatsapp: "https://example.com",
       Youtube: "https://example.com",
-      MrHope: ["https://mrhope.site", MR_HOPE_AVATAR],
     },
   },
 
-  locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
+  navbar: enNavbar,
+  sidebar: {
+    "/projetos/": "structure",
 
-      // sidebar
-      sidebar: enSidebar,
+    "/posts/": "structure",
 
-      footer: "Default footer",
-
-      displayFooter: true,
-
-      blog: {
-        description: "Boloko's mind",
-        intro: "/intro.html",
-      },
-
-      metaLocales: {
-        editLink: "Editar no GitHub",
-      },
-    },
-
-    // /**
-    //  * Chinese locale config
-    //  */
-    // "/zh/": {
-    //   // navbar
-    //   navbar: zhNavbar,
-
-    //   // sidebar
-    //   sidebar: zhSidebar,
-
-    //   footer: "默认页脚",
-
-    //   displayFooter: true,
-
-    //   blog: {
-    //     description: "一个前端开发者",
-    //     intro: "/zh/intro.html",
-    //   },
-
-    //   // page meta
-    //   metaLocales: {
-    //     editLink: "在 GitHub 上编辑此页",
-    //   },
-    // },
+    // fallback
+    "/": [
+      "" /* / */,
+      "contact" /* /contact.html */,
+      "about" /* /about.html */,
+    ],
   },
+
+  // sidebar: enSidebar,
+
+  // locales: {
+  //   "/": {
+  //     // navbar
+  //     navbar: enNavbar,
+
+  //     // sidebar
+  //     sidebar: enSidebar,
+
+  //     footer: "Default footer",
+
+  //     displayFooter: true,
+
+  //     blog: {
+  //       description: "Boloko's mind",
+  //       intro: "/intro.html",
+  //     },
+
+  //     metaLocales: {
+  //       editLink: "Editar no GitHub",
+  //     },
+  //   },
+
+  //   // /**
+  //   //  * Chinese locale config
+  //   //  */
+  //   // "/zh/": {
+  //   //   // navbar
+  //   //   navbar: zhNavbar,
+
+  //   //   // sidebar
+  //   //   sidebar: zhSidebar,
+
+  //   //   footer: "默认页脚",
+
+  //   //   displayFooter: true,
+
+  //   //   blog: {
+  //   //     description: "一个前端开发者",
+  //   //     intro: "/zh/intro.html",
+  //   //   },
+
+  //   //   // page meta
+  //   //   metaLocales: {
+  //   //     editLink: "在 GitHub 上编辑此页",
+  //   //   },
+  //   // },
+  // },
 
   encrypt: {
     config: {
