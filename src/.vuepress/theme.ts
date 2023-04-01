@@ -38,20 +38,20 @@ export default hopeTheme({
   },
 
   navbar: enNavbar,
-  sidebar: {
-    "/projetos/": "structure",
+  // sidebar: {
+  //   "/projetos/": "structure",
 
-    "/posts/": "structure",
+  //   "/posts/": "structure",
 
-    // fallback
-    "/": [
-      "" /* / */,
-      "contact" /* /contact.html */,
-      "about" /* /about.html */,
-    ],
-  },
+  //   // fallback
+  //   "/": [
+  //     "" /* / */,
+  //     "projetos" /* /contact.html */,
+  //     "about" /* /about.html */,
+  //   ],
+  // },
 
-  // sidebar: enSidebar,
+  sidebar: enSidebar,
 
   // locales: {
   //   "/": {
