@@ -95,6 +95,4 @@ features:
     details: Including icon support, fullscreen button, etc.
     link: /guide/feature/
 
-copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
