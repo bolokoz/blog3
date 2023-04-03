@@ -1,11 +1,6 @@
 ---
 title: 500 palavras em 6 linguas
-icon: config
-order: 3
-category:
-  - Linguagens
-tag:
-  - disable
+icon: word
 
 breadcrumb: false
 pageInfo: false
@@ -18,7 +13,13 @@ footer: false
 backtotop: false
 ---
 
-Quero ver um dia eu acabar isso
+# Lista das 500 palavras mais usadas em 6 línguas diferentes
+
+Ser fluente em uma língua custa muito esforço. 
+
+Considerando que as 2000 palavras mais utilizadas numa língua cobrem 80% das conversações normais, parece uma estratégia boa para conseguir entender o grosso de uma conversação. 
+
+## Lista
 
 | english | portugues | spanish |  deutsch  | nihongo   | kanji | guarani |
 |:-------:|:---------:|:-------:|:---------:| --------- | ----- | ------- |

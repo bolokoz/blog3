@@ -1,17 +1,13 @@
 ---
-title: Features Demo
-index: false
-icon: discover
-category:
-  - Guide
+home: true
+icon: home
+title: Projetos
+heroText:  Projetos executados✨
+tagline: //
+features:
+  - title: Sobrado alto padrao
+    icon: fab fa-markdown
+    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in Markdown
+    link: /portfolio/alpha4/
+
 ---
-
-## Catalog
-
-- [Markdown Enhance](markdown.md)
-
-- [Page Config](page.md)
-
-- [Function Disable](disable.md)
-
-- [Encryption Demo](encrypt.md)

@@ -33,6 +33,7 @@ export default hopeTheme({
       Whatsapp: "https://example.com",
       Youtube: "https://example.com",
     },
+
   },
 
   navbar: enNavbar,
@@ -105,7 +106,9 @@ export default hopeTheme({
       // "/zh/demo/encrypt.html": ["1234"],
     },
   },
-
+  blogLocales: {
+    project: "PROJETOSSS",
+  },
   plugins: {
     blog: true,
 
