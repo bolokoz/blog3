@@ -5,9 +5,9 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "build": "vuepress build src",
-    "clean-dev": "vuepress dev src --clean-cache",
-    "dev": "vuepress dev src",
+    "docs:build": "vuepress build docs",
+    "clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs",
     "update-package": "yarn dlx vp-update"
   },
   "devDependencies": {
