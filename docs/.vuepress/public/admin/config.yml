@@ -1,14 +1,43 @@
 backend:
   name: test-repo
   # branch: master # Branch to update (optional; defaults to master)
-media_folder: "images/uploads"
-
+media_folder: "assets/uploads"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: boloko
+    api_key: 546499289928484
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 collections:
   - name: "posts"
     label: "Post"
-    folder: "_posts"
-    filter:
-      field: language
-      value: en
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
-      - {label: "Language", name: "language"}
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        default: ""
+        date_format: "yyyy-mm-dd" # e.g. 24.12.2021
+        # time_format: "HH:mm" # e.g. 21:07
+        # format: "LLL"
+        picker_utc: false
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        default: "/assets/chocolate-dogecoin.jpg"
+        media_library:
+          config:
+            multiple: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        add_to_top: true
+      - {label: "Star", name: "star", widget: "boolean", default: false}
+      - {label: "Sticky", name: "sticky", widget: "boolean", default: false}
+      - { label: 'Blog post content', name: 'body', widget: 'markdown' }
