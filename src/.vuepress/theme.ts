@@ -100,15 +100,12 @@ export default hopeTheme({
   //   // },
   // },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-      // "/zh/demo/encrypt.html": ["1234"],
-    },
-  },
-  blogLocales: {
-    project: "PROJETOSSS",
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //     // "/zh/demo/encrypt.html": ["1234"],
+  //   },
+  // },
   plugins: {
     blog: true,
 
