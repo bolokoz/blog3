@@ -14,7 +14,7 @@ slug:
 collections:
   - name: "posts"
     label: "Post"
-    folder: "posts"
+    folder: "docs/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
