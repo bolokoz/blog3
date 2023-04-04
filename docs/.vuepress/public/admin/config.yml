@@ -21,8 +21,8 @@ collections:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Featured Image', name: 'image', widget: 'image', media_library: {allow_multiple: false}}
-      - {label: 'Categories', name: 'categories', widget: 'list', allow_add: true, field: {label: 'Category', name: 'category', widget: 'string'}}
-      - {label: 'Tags', name: 'tags', widget: 'list', allow_add: true, field: {label: 'Tag', name: 'tag', widget: 'string'}}
+      - {label: 'Categories', name: 'category', widget: 'list', allow_add: true, field: {label: 'Category', name: 'category', widget: 'string'}}
+      - {label: 'Tag', name: 'tag', widget: 'list', allow_add: true, field: {label: 'Tag', name: 'tag', widget: 'string'}}
       - {label: "Star", name: "star", widget: "boolean", default: false}
       - {label: "Sticky", name: "sticky", widget: "boolean", default: false}
       - { label: 'Blog post content', name: 'body', widget: 'markdown' }
