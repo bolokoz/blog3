@@ -4,10 +4,10 @@ icon: cloud
 date: 2019-01-01
 # A page can have multiple categories
 category:
-  - Eletronica
+  - eletronica
 # A page can have multiple tags
 tag:
-  - Arduino
+  - arduino
   - ESP32
   - smart home
   - artesanato

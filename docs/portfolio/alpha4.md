@@ -3,9 +3,9 @@ title: Sobrado alto padrão
 icon: home
 order: 2
 category:
-  - Engenharia
+  - engenharia
 tag:
-  - Construção
+  - obras
 ---
 
 VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.

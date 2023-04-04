@@ -20,12 +20,40 @@ collections:
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
-      - {label: 'Featured Image', name: 'image', widget: 'image', media_library: {allow_multiple: false}}
+      - {label: 'Featured Image', name: 'image', widget: 'image', media_library: {allow_multiple: true}}
       - {label: 'Categories', name: 'category', widget: 'list', allow_add: true, field: {label: 'Category', name: 'category', widget: 'string'}}
       - {label: 'Tag', name: 'tag', widget: 'list', allow_add: true, field: {label: 'Tag', name: 'tag', widget: 'string'}}
       - {label: "Star", name: "star", widget: "boolean", default: false}
       - {label: "Sticky", name: "sticky", widget: "boolean", default: false}
       - { label: 'Blog post content', name: 'body', widget: 'markdown' }
+  - name: "projects"
+    label: "Projetos"
+    folder: "docs/projects"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
+      - {label: 'Featured Image', name: 'image', widget: 'image', media_library: {allow_multiple: true}}
+      - {label: 'Categories', name: 'category', widget: 'list', allow_add: true, field: {label: 'Category', name: 'category', widget: 'string'}}
+      - {label: 'Tag', name: 'tag', widget: 'list', allow_add: true, field: {label: 'Tag', name: 'tag', widget: 'string'}}
+      - {label: "Star", name: "star", widget: "boolean", default: false}
+      - {label: "Sticky", name: "sticky", widget: "boolean", default: false}
+      - { label: 'Project content', name: 'body', widget: 'markdown' }
+  - name: "portfolio"
+    label: "Portfolio"
+    folder: "docs/portfolio"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
+      - {label: 'Featured Image', name: 'image', widget: 'image', media_library: {allow_multiple: true}}
+      - {label: 'Categories', name: 'category', widget: 'list', allow_add: true, field: {label: 'Category', name: 'category', widget: 'string'}}
+      - {label: 'Tag', name: 'tag', widget: 'list', allow_add: true, field: {label: 'Tag', name: 'tag', widget: 'string'}}
+      - {label: "Star", name: "star", widget: "boolean", default: false}
+      - {label: "Sticky", name: "sticky", widget: "boolean", default: false}
+      - { label: 'Portfolio content', name: 'body', widget: 'markdown' }
   - name: 'categories'
     label: 'Categories'
     folder: 'categories'
@@ -33,4 +61,4 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Posts', name: 'posts', widget: 'list', field: {label: 'Post', name: 'post', widget: 'relation', collection: 'posts', search_fields: ['title'], value_field: 'title'}}
+      - {label: 'Posts', name: 'posts', widget: 'list', field: {label: 'Post', name: 'post', widget: 'relation', collection: 'posts', search_fields: ['category'], value_field: 'title'}}
