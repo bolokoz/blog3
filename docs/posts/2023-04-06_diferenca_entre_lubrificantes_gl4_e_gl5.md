@@ -5,7 +5,8 @@ image: https://res.cloudinary.com/boloko/image/upload/v1680805495/tuyfi4fzt6gd1f
 category:
   - lubrificantes
 tag:
-  - aditivos, transmissão
+  - aditivos
+  - transmissão
 star: false
 sticky: false
 ---
@@ -13,7 +14,7 @@ E﻿les diferem em **quantidade de aditivos**. GL4 contém menos e GL5 mais.
 
 N﻿em sempre quanto mais aditivos é melhor.
 
-\#﻿# Aditivo de pressão extrema
+#﻿# Aditivo de pressão extrema
 
 São apenas ativos quando a película natural do lubrificante é rompida em esforços anormais.
 
