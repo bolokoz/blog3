@@ -16,7 +16,7 @@ export default hopeTheme({
   logo: "https://engebeck.com.br/_nuxt/img/TETRAHEDRON.efd7c2a.png",
 
   repo: "bolokoz/blog3",
-
+  docsBranch: 'master',
   docsDir: "docs",
 
   editLink: true,
@@ -24,14 +24,15 @@ export default hopeTheme({
   lastUpdated: true,
   titleIcon: true,
 
+
   themeColor: { blue: '#2196f3', red: '#f26d6d', green: '#3eaf7c', orange: '#fb9b5f' },
 
   blog: {
     medias: {
-      GitHub: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
+      GitHub: "https://github.com/bolokoz",
+      Gmail: "mailto:yurifbeck@gmail.com",
+      Whatsapp: "https://wa.me/5567999767835",
+      Youtube: "https://youtube.com/boioko",
     },
 
   },

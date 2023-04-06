@@ -13,9 +13,7 @@ footer: false
 backtotop: false
 ---
 
-# Lista das 500 palavras mais usadas em 6 línguas diferentes
-
-Ser fluente em uma língua custa muito esforço. 
+## Por que 500 palavras?
 
 Considerando que as 2000 palavras mais utilizadas numa língua cobrem 80% das conversações normais, parece uma estratégia boa para conseguir entender o grosso de uma conversação. 
 
