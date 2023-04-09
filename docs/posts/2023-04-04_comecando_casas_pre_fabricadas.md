@@ -7,6 +7,7 @@ category:
   - koeroga
 tag:
   - prefab
+  - madeira
 star: false
 sticky: false
 ---

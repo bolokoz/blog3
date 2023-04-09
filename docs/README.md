@@ -3,10 +3,13 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog
-heroImage: http://lorempixel.com.br/500/500
+heroImage: http://lorempixel.com.br/800/500
 heroText: BolokoMind
 tagline: Blog, projetos e mais
 heroFullScreen: false
+bgImage: https://source.unsplash.com/collection/928423/980x480
+heroImageStyle: "border-radius: 5px;"
+bgImageStyle: "border-radius: 5px; margin: 0px 20px 0px;"
 projects:
   - icon: project
     name: project name
@@ -38,5 +41,5 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: criado em 2023
 ---
