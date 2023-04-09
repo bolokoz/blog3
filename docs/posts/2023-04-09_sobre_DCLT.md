@@ -12,15 +12,17 @@ tag:
 star: false
 sticky: false
 ---
-
 Painéis de lamela cruzada cavilhadas são CLTs que não usam cola, mas sim uma outra madeira como se fosse um prego para juntar as lamelas.
 
-![dclt](https://res.cloudinary.com/boloko/image/upload/v1681022316/xgtgogbp6pbozifyrpwy.png)
-
+![dclt](https://res.cloudinary.com/boloko/image/upload/v1681022316/xgtgogbp6pbozifyrpwy.png "dclt pronto")
 
 ## Por que?
 
 Questões ambientais sobre as colas do CLT (toxicidade, não reciclabilidade e cheiro)
+
+
+
+![cavilhas](https://res.cloudinary.com/boloko/image/upload/v1681023827/txoezlywz3rkj1ofxxot.png "cavilhas")
 
 ## É melhor ou pior que CLT?
 
