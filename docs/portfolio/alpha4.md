@@ -13,7 +13,7 @@ Administração, concepção, auxílio em projeto e execução e compras de um s
 ## Introdução
 
 Objetivo: imóvel para venda
-Exigências: 5 suites, garagem privativa e fluidez de luz e ar
+Exigências: 5 suites funcionais, garagem privativa e fluidez de luz e ar
 Área do terreno: 360 m2 (12x30)
 Restrições de zoneamento urbano e de condomínio
 
@@ -22,6 +22,17 @@ Restrições de zoneamento urbano e de condomínio
 Fachada precisava ser comercial, portanto foram adotados volumes quadrados.
 
 Para reduzir custos o ideal seria somente pavimento térreo mas não foi possível com a exigência de 5 suítes.
+
+Para a exigência de fluidez de luz e ar pensamos em separar a área social em um corredor continuo com bastante aberturas.
+
+Para dar dinamismo à área social, colocamos sala TV rebaixada e sala de jantar com pé direito duplo. Desta forma não parecer um corredor.
+
+O terreno em questão conta com uma característica exclusiva de não ter vizinhos de frente e com vista para o cerrado. Por isso precisávamos ter uma sacada. Também deixamos a janela da suite master virada para está vista.
+
+
+
+
+
 
 
 
