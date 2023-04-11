@@ -8,7 +8,9 @@ tag:
   - obras
 ---
 
-Administração e e concepção, auxílio em projeto e execução, compras.
+Administração, concepção, auxílio em projeto e execução e compras de um sobrado alto padrão.
+
+## 
 
 VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.
 
