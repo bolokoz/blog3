@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "5a36b582313a6ceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f79c63e3e6afb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef27d280ad980bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/posts/2023-04-10_vector_databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94dade8fa143b894",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ecabfb0aa647405f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a517bcdc3ca3da93",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "31bf9fe79f9df8cb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "23d1775702bfbe63",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "53c21612d8bbf4ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2bfd0a16b427f67",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/posts/2023-04-10_vector_databases.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4b16c9d078724cf2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/posts/2023-04-10_vector_databases.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b5802e7224e1f427",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/posts/2023-04-10_vector_databases.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ef27d280ad980bb",
+  "lastOpenFiles": [
+    "docs/posts/2023-04-10_vector_databases.md",
+    "Untitled.md",
+    "docs/posts/2023-04-04_comecando_casas_pre_fabricadas.md",
+    "Remoterepo"
+  ]
+}
