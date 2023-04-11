@@ -13,6 +13,8 @@ sticky: false
 
 Banco de dados que agrupam por semelhança. Como endereçar uma imagem ou frase? Bem diferente do tradicional 
 
+![[20230408_144823.jpg]]
+
 ## como funciona
 
 Simplicando ao máximo: imagina que vamos guardar coordenadas 2D num DB. Usamos vetores com duas dimensões. Quando quero uma coordenada próxima dessa localização, consigo tirar a distância e trazer todos os pontos próximos.
