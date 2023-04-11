@@ -10,7 +10,20 @@ tag:
 
 Administração, concepção, auxílio em projeto e execução e compras de um sobrado alto padrão.
 
-## 
+## Introdução
+
+Objetivo: imóvel para venda
+Exigências: 5 suites, garagem privativa e fluidez de luz e ar
+Área do terreno: 360 m2 (12x30)
+Restrições de zoneamento urbano e de condomínio
+
+## Projeto arquitetônico
+
+Fachada precisava ser comercial, portanto foram adotados volumes quadrados.
+
+Para reduzir custos o ideal seria somente pavimento térreo mas não foi possível com a exigência de 5 suítes.
+
+
 
 VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.
 
