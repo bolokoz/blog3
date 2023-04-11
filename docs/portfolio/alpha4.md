@@ -8,6 +8,8 @@ tag:
   - obras
 ---
 
+Administração e e concepção, auxílio em projeto e execução, compras.
+
 VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.
 
 You should create and write Markdown files, so that VuePress can convert them to different pages according to file structure.
