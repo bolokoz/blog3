@@ -40,9 +40,11 @@ O﻿ projeto foi desenvolvido pela arquiteta em **CAD**. Peguei o modelo e trans
 
 ![](https://res.cloudinary.com/boloko/image/upload/q_22/v1681321204/boloko/image.pngs.png "fachada preliminar")
 
-
-
 ## Projetos complementares
+
+### E﻿létrico
+
+O﻿ Projeto elétrico foi terceirizado pela empresa DRC Elétrica.
 
 ## Execução dos projetos
 
