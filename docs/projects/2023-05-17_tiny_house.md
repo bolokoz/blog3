@@ -74,20 +74,14 @@ N﻿ão sei qual escolher, precisaria testar ambos e ver qual seria mais prátic
 
 1. **decidir fundação ideal (adotado broca encamisada)**
 
-
-
 Outro fator para considerar: quantidade e distância as brocas.
 
 Quanto mais fundações, menores os vãos entre pilares, menores serão as vigas, no entanto, isso aumentaria o número de pilares e custo de material nas fundações. Precisamos encontrar um ponto ideal. Creio que será complexo achar, vamos deixar para depois para não atrapalhar o mínimo produto viável. Adotarei 5m de vão como padrão.
-
-
 
 **L﻿ista de aperfeiçoamentos v2:** 
 
 1. **decidir fundação ideal (adotado broca encamisada)**
 2. **minimizar custo entre número de fundações e distância vão. (adotado 5m)**
-
-
 
 ### P﻿iso
 
@@ -120,15 +114,11 @@ P﻿ode ser que eu esteja caindo em algum paradígma mas para que tenhamos o pis
 >
 > P﻿utz, talvez o metal melhor calculado e mais bem utilizado seria mais barato e resistente que a mdeira. Enfim. Não sei. Adotarei madeira porque o projeto todo está tendendo pra um wood frame. O mercado de madeira do Brasil poderia ser melhor explorado também. 
 
-
-
 **L﻿ista de aperfeiçoamentos v3:** 
 
 1. **decidir fundação ideal (adotado broca encamisada)**
 2. **minimizar custo entre número de fundações e distância vão. (adotado 5m)**
 3. **e﻿strutura madeira, concreto ou metal (adotado madeira)**
-
-
 
 V﻿oltando para a escolha do piso que ficaria acima das vigas.
 
@@ -148,8 +138,6 @@ Plástico cumpre todas as qualidades também. Piso vinílico.
 
 **N﻿ovamente vou adotar à solução usualmente encontrada no woodframe: madeira laminada.**
 
-
-
 ### P﻿aredes (vedação vertical)
 
 P﻿recisa ser rígida para cumprir as funções.
@@ -158,8 +146,6 @@ V﻿amos para alguns exemplos extremos para quebrar paradigmas:
 
 1. O﻿ abrigo dos esquimós eram de paredes redondas. Dos índios era um cone. Dos euroasiáticos era formato de tenda.
 2. E﻿squimós usavam gelo. Índios barro, folhagens ou tecido. Medievais pedras. Asiáticos madeira.
-
-
 
 C﻿om isso podemos nos perguntar:
 
@@ -172,8 +158,6 @@ V﻿amos adotar paredes perpendiculares. Será retangular. Terá diferentes altu
 
 ![](https://res.cloudinary.com/boloko/image/upload/v1684299033/blogloko/image.pngf.png "parede altura diferente")
 
-
-
 O﻿ material e estrurura:
 
 P﻿recisamos entrar em um outro adendo: paredes precisam respirar (eu acho)
@@ -181,14 +165,38 @@ P﻿recisamos entrar em um outro adendo: paredes precisam respirar (eu acho)
 > N﻿o wood frame usa-se uma membrana passar para envolver a casa.  Essa membrana é impermeável mas ela permite que vapor passe. Igual quando você tira uma coca cola da geladeir ela começa a 'suar', o mesmo ocorre em uma parede. O ar tem umidade em forma de vapor., se o ar diminui de volume (quando encontra uma parede fria) esse vapor vira água líquida (ponto de vapor). Essa água que surge 'do nada' acumula e pode apodrecer madeira, enfurrujar ferro e tudo mais. 
 >
 > N﻿as paredes feita de tijolo isso não acontece porque o tijolo é poroso e permite trocas gasosas (dizem). Pra mim ainda não faz muito sentido pois passamos reboco, massa e tinta dos dois lados. Acho que por aqui o contraste de temperatura nunca é tão grande para formar condensação.
->
+
+V﻿amos ignorar a condensação porque a maioria do Brasil não faz tanto frio. A maioria faz muito calor. Precisamos de algum isolante térmico. Madeira e tijolo são bons candidatos mas queremos reduzir peso. Elimanos o tijolo. Lâminas de metal são leves e podem ser utilizadas em conjunto com material térmico (similar telha sanduíche). Novamente tendendo ao woodframe irei adotar madeira.
+
+**L﻿ista de aperfeiçoamentos v4:** 
+
+1. **decidir fundação ideal (adotado broca encamisada)**
+2. **minimizar custo entre número de fundações e distância vão. (adotado 5m)**
+3. **e﻿strutura madeira, concreto ou metal (adotado madeira)**
+   4﻿. **material das paredes, estrutura e revestimento (adotado madeira)**
+
+T﻿udo está sendo similar ao woodframe e acho que cai de volta no paradigma. 
 
 
+
+![](https://res.cloudinary.com/boloko/image/upload/v1684297141/blogloko/image.pngp.png)
+
+A﻿ parede interna e externa podem ser duas coisas diferentes. Externa com proteção térmica, ultravioleta e impermeável. Interna precisa ser limpa, durável e bonita. O ideal seria feita do mesmo material. Existem painéis de madeira auto portantes mas parece ser uma solução cara. Para revestimento interno vou adotar woodframe
 
 ### A﻿berturas (Portas e janelas)
+
+P﻿enso que precisaria usar soluções prontas e seria porta de madeira ou PVC e aberturas de vidro deslizantes é bem econômico. Princípio KISS (keep it simple stupid). Acho que deveria ter colocado isso com prioridade antes já.
+
+**L﻿ista de fundamentos v2: reduzir peso, manter simplicidade**
 
 ### S﻿istemas complementares (hidraulica e elétrica)
 
 ### T﻿eto (vedação horizontal)
 
-O﻿ mínimo é impedir sol e chuva. Qual a forma mais barata de fazer isso? Lona parece ser uma solução sem necessitar de estrutura auxiliar. E o calor? Se for da cor branca resolveria?
+O﻿ mínimo é impedir sol e chuva. Qual a forma mais barata de fazer isso? Lona parece ser uma solução sem necessitar de estrutura auxiliar. 
+
+![](https://res.cloudinary.com/boloko/image/upload/v1684297086/blogloko/image.pn.png)
+
+E o calor? Se for da cor branca resolveria? Telha de zinco + isopor? 
+
+O﻿ teto precisa ser estéticamente bonito?
