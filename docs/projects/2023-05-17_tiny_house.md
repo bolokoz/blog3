@@ -176,9 +176,13 @@ V﻿amos adotar paredes perpendiculares. Será retangular. Terá diferentes altu
 
 O﻿ material e estrurura:
 
-P﻿recisamos entrar em um outro adendo 
+P﻿recisamos entrar em um outro adendo: paredes precisam respirar (eu acho)
 
-
+> N﻿o wood frame usa-se uma membrana passar para envolver a casa.  Essa membrana é impermeável mas ela permite que vapor passe. Igual quando você tira uma coca cola da geladeir ela começa a 'suar', o mesmo ocorre em uma parede. O ar tem umidade em forma de vapor., se o ar diminui de volume (quando encontra uma parede fria) esse vapor vira água líquida (ponto de vapor). Essa água que surge 'do nada' acumula e pode apodrecer madeira, enfurrujar ferro e tudo mais. 
+>
+> N﻿as paredes feita de tijolo isso não acontece porque o tijolo é poroso e permite trocas gasosas (dizem). Pra mim ainda não faz muito sentido pois passamos reboco, massa e tinta dos dois lados. Acho que por aqui o contraste de temperatura nunca é tão grande para formar condensação.
+>
+>
 
 
 
