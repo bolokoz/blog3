@@ -59,15 +59,7 @@ V﻿amos pensar então na fundação como um elemento 'nivelador e barreira cont
 >
 > N﻿ão menosprezar mas nem romantizar. Não acho que seria uma boa idea
 
-Q﻿uanto menor o peso, menor precisaria ser a fundação. Não só fundação, mas toda a estrutura será mais econômica.
-
-Podemos tomar isso como fundamento para todo o projeto.
-
-**L﻿ista de fundamentos v1: reduzir peso**
-
-Quanto mais fundações, menores os vãos entre pilares, menores serão as vigas, no entanto, isso aumentaria o número de pilares e custo de material nas fundações. Precisamos encontrar um ponto ideal. Creio que será complexo achar, vamos deixar para depois para não atrapalhar o mínimo produto viável. Adotarei 5m de vão como padrão.
-
-**L﻿ista de aperfeiçoamentos v1: minimizar custo entre número de fundações distância vão. (adotado 5m)**
+A﻿gora que temos uma função, vamos para a forma.
 
 ##### T﻿ipos de fundação
 
@@ -78,18 +70,117 @@ D﻿epende do tipo de solo.
 
 N﻿ão sei qual escolher, precisaria testar ambos e ver qual seria mais prático e barato. Adotarei tipo 1 por enquanto.
 
+**L﻿ista de aperfeiçoamentos v1:** 
+
+1. **decidir fundação ideal (adotado broca encamisada)**
+
+
+
+Outro fator para considerar: quantidade e distância as brocas.
+
+Quanto mais fundações, menores os vãos entre pilares, menores serão as vigas, no entanto, isso aumentaria o número de pilares e custo de material nas fundações. Precisamos encontrar um ponto ideal. Creio que será complexo achar, vamos deixar para depois para não atrapalhar o mínimo produto viável. Adotarei 5m de vão como padrão.
+
+
+
 **L﻿ista de aperfeiçoamentos v2:** 
 
-1. **minimizar custo entre número de fundações distância vão (adotado 5m)**
-2. **decidir fundação ideal (adotado broca encamisada)**
+1. **decidir fundação ideal (adotado broca encamisada)**
+2. **minimizar custo entre número de fundações e distância vão. (adotado 5m)**
 
 
 
 #### P﻿iso
 
+V﻿amos descobrir a função do piso sem paradigmas através dos exemplos extremos.
+
+N﻿ão pode ser terra porque suja. Não pode ser pedriscos porque não é confortável. desuniforme. Não pode ser asfalto porque é quente. Grama precisa de manutenção. Mármore é caro. Madeira não pode molhar. Concreto é pesado. Tijolos quebram. Isopor é poroso e suja. Mármore é caro. 
+
+C﻿om isso temos uma lista de qualidade que gostaríamos:
+
+1. L﻿impo e sem manutenção
+2. U﻿niforme e nivelado.
+3. C﻿onfortável a o toque e térmicamente
+4. L﻿eve, resistente e barato.
+
+D﻿ifícil encontrar. As cerâmicas são popular no Brasil mas exigem muitos processos que encarecem (contra-piso, argamassa, espaçador, assentamento, nivelamento, queda, rejunte)
+
+Elas na verdade são um material composto. Substrato de barro barato com um acabamento superficial bonito e impermeável.
+
+I﻿sso me faz pensar que a solução deveria ser um compósito similar. Um substrato com algumas características e por cima outro material que cumpra outras funções. Isopor com uma camada de poliuretano por cima?
+
+P﻿ode ser que eu esteja caindo em algum paradígma mas para que tenhamos o piso nivelado,  precisariamos de uma base sustentadora através de vigas (joists).
+
+![](https://res.cloudinary.com/boloko/image/upload/v1684296855/blogloko/migfy5bgn7gk8cnkseio.jpg)
+
+ Essas vigas podem ser feitas de madeira, metal ou concreto. E agora, irmão? Vamos entrar em mais um longo adendo:
+
+> P﻿or que no Brasil não se usa madeira? Penso que seja uma questão cultural. Os valores podem ser competitivos? Creio que sim. O problema é a falta de padronização de material? Creio que podemos reverter.
+>
+> A﻿ madeira é mais barata que metal ou concreto? Não sei dizer É mais rápida que o concreto. Mas e as vigotas T pre fabricadas? Putz talvez seria melhor que madeira.
+>
+> P﻿utz, talvez o metal melhor calculado e mais bem utilizado seria mais barato e resistente que a mdeira. Enfim. Não sei. Adotarei madeira porque o projeto todo está tendendo pra um wood frame. O mercado de madeira do Brasil poderia ser melhor explorado também. 
+
+
+
+**L﻿ista de aperfeiçoamentos v3:** 
+
+1. **decidir fundação ideal (adotado broca encamisada)**
+2. **minimizar custo entre número de fundações e distância vão. (adotado 5m)**
+3. **e﻿strutura madeira, concreto ou metal (adotado madeira)**
+
+
+
+V﻿oltando para a escolha do piso que ficaria acima das vigas.
+
+D﻿evido a escolha da fundação, nosso piso vai precisar vencer um pequeno vão para ser viável econômicamente.
+
+S﻿olução encontrada no exterior seriam a lâminas de madeira com proteção para água.
+
+Plástico cumpre todas as qualidades também. Piso vinílico.
+
+> S﻿obre o peso do piso de concreto ou cimento:
+>
+> Q﻿uanto menor o peso, menor precisaria ser a fundação. Não só fundação, mas toda a estrutura será mais econômica.
+>
+> Podemos tomar isso como fundamento para todo o projeto.
+>
+> **L﻿ista de fundamentos v1: reduzir peso**
+
+**N﻿ovamente vou adotar à solução usualmente encontrada no woodframe: madeira laminada.**
+
 
 
 #### P﻿aredes (vedação vertical)
+
+P﻿recisa ser rígida para cumprir as funções.
+
+V﻿amos para alguns exemplos extremos para quebrar paradigmas:
+
+1. O﻿ abrigo dos esquimós eram de paredes redondas. Dos índios era um cone. Dos euroasiáticos era formato de tenda.
+2. E﻿squimós usavam gelo. Índios barro, folhagens ou tecido. Medievais pedras. Asiáticos madeira.
+
+
+
+C﻿om isso podemos nos perguntar:
+
+1. Precisa ser perpendicular ao piso? Não exatamente mas facilita espaço interno e nivelamento das aberturas.
+2. P﻿recisam ter a mesma altura em todo seu perímetro? Creio que não e isso reduziria boa quantidade de material em produção. 
+3. O﻿ formato redondo de igloo seria bom? Não ter cantos ajuda ou atrapalha? Seria dificil construtivamente. Os terrenos são retangulares. Não acho uma boa.
+4. A﻿ltura do pé direito: Quanto menor, melhor econômicamente. Mas e conforto? Qual o mínimo requerido? Banheiro pode ser mais baixo por que?
+
+V﻿amos adotar paredes perpendiculares. Será retangular. Terá diferentes alturas conforme ambiente (alto para área comum e baixo para lugares privados). Conforme inspiração abaixo:
+
+![](https://res.cloudinary.com/boloko/image/upload/v1684299033/blogloko/image.pngf.png "parede altura diferente")
+
+
+
+O﻿ material e estrurura:
+
+P﻿recisamos entrar em um outro adendo 
+
+
+
+
 
 #### A﻿berturas (Portas e janelas)
 
